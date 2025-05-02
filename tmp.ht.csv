@@ -1,5 +1,5 @@
 original_ht_voice_file_name,start_frame,end_frame,original_serif,translated_serif,character_name
-1.wav,1998,2024,"Again?","またですか？",マネージャー
-2.wav,2118,2139,"It's Again.","またです",アナウンサー
-3.wav,2400,2449,"What did you do this time?","今度は何をしたんですか？",マネージャー
-4.wav,2500,2530,"I was a bit out of control.","ちょっと暴れちゃった",アナウンサー
+1.wav,591,611,"Again?","またですか？",マネージャー
+2.wav,709,732,"It's Again.","またです",アナウンサー
+3.wav,989,1024,"What did you do this time?","今度は何をしたんですか？",マネージャー
+4.wav,1179,1206,"I was a bit out of control.","ちょっと暴れちゃった",アナウンサー
